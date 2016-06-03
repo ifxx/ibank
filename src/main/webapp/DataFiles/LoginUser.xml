@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LoginDetails>
+	<User>
+		<UserName>AJ9902</UserName>
+		<Password>Passw0rd</Password>
+		<Account>223108</Account>
+	</User>
+	<User>
+		<UserName>AN3456</UserName>
+		<Password>Passw0rd</Password>
+		<Account>12345</Account>
+	</User>
+	<User>
+		<UserName>vasil</UserName>
+		<Password>123123</Password>
+		<Account>123123</Account>
+	</User>
+</LoginDetails>

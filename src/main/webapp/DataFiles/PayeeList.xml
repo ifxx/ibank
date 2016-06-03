@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PayeeList>
+<User>
+	<UserName>AJ9902</UserName>
+	<Payee>
+		<Name>Self</Name>
+		<Account>12348</Account>
+	</Payee>
+	<Payee>
+		<Name>Anna Knight</Name>
+		<Account>12345</Account>
+	</Payee>
+	<Payee>
+		<Name>Mary Kensley</Name>
+		<Account>543211</Account>
+	</Payee>
+</User>
+</PayeeList>

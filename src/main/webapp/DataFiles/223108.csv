@@ -1,0 +1,13 @@
+Date,Transaction,Amount,Type,Balance
+1/1/2014,Salary credited,108789,Credit,235687
+1/4/2014,Payment - Credit card **56,23780,Debit,211907
+1/12/2014,Debited from Anna,45000,Credit,256907
+1/18/2014,Loan Payment,78000,Debit,178907
+2/4/2014,Salary credited,107856,Credit,286763
+3/4/2014,Trasferred to Alex,100000,Debit,186763
+06/01/2014,Amount debited Ref:1401596883200,10000,Debit, 176763.00
+06/01/2014,Bill paid towards :American Express Credit Card :: Ref:1401599192520,1000,Debit, 175763.00
+06/01/2014,Amount debited Ref:1401599615576,3000,Debit, 172763.00
+06/01/2014,Bill paid towards :XYZ Mobile :: Ref:1401599629522,7000,Debit, 165763.00
+09/13/2014,Funds transfered towards :iBankInvestor :: Ref:1410621062084,1500,Debit, 164263.00
+09/14/2014,Funds received from :iBankInvestor :: Ref:1410666026858,600,Credit, 164863.00

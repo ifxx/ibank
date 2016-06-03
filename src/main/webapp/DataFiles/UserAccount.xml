@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Accounts>
+	<User>
+		<Name>AJ9902</Name>
+		<Account>
+			<Number>223108</Number>
+			<Balance> 164863.00</Balance>
+		</Account>
+		<Account>
+			<Number>12348</Number>
+			<Balance>4577</Balance>
+		</Account>
+	</User>
+	
+	<User>
+		<Name>AN3456</Name>
+		<Account>
+			<Number>12345</Number>
+			<Balance>  19600.00</Balance>
+		</Account>		
+	</User>
+	
+	<User>
+		<Name>vasil</Name>
+		<Account>
+			<Number>123123</Number>
+			<Balance>100000</Balance>
+		</Account>		
+	</User>
+	
+</Accounts>

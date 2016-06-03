@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BillerList>
+	<Biller>
+		<Name>American Express Credit Card</Name>
+		<Account>98654</Account>
+	</Biller>
+	<Biller>
+		<Name>ABC Mutual Fund</Name>
+		<Account>98656</Account>
+	</Biller>
+	<Biller>
+		<Name>XYZ Mobile</Name>
+		<Account>98659</Account>
+	</Biller>
+</BillerList>
