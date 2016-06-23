@@ -28,7 +28,11 @@
 			<div
 				style="float: left; width: 70%; padding-left: 20px; padding-top: 40px;">
 				<s:form action="login.action" method="post">
+<<<<<<< HEAD
 					<font face="verdana" color="#659EC7" size="4"><b>Customer Scott
+=======
+					<font face="verdana" color="#659EC7" size="4"><b>Customer HPE
+>>>>>>> origin/master
 							Login</b> </font>
 					<br />
 					
